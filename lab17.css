@@ -28,7 +28,7 @@
     height: 720px;
     position: relative;
     display: flex;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .sildes .img {
